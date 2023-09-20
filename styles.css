@@ -4,9 +4,10 @@
 .main {
   display: flex;
   flex-direction: column;
-  margin: 3rem 9rem 3rem 9rem;
+  margin: 3rem auto;
   justify-items: center;
   height: 100vh;
+  max-width:fit-content
 }
 .main__top {
   display: flex;
